@@ -1,0 +1,32 @@
+_repo: Le-Roi-s-amuse_29549
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- Banned Books from Anne Haight's list
+- Opera
+gutenberg_issued: '2009-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29549'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama -- 19th century'
+title: Le Roi s'amuse
+url: http://www.gutenberg.org/ebooks/29549
